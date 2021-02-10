@@ -316,7 +316,7 @@
     "hadron-react-buttons": "^4.0.4",
     "hadron-react-components": "^4.0.4",
     "hadron-style-manager": "^0.3.0",
-    "highlight.js": "^8.9.1",
+    "highlight.js": "^10.4.1",
     "jquery": "^2.1.4",
     "kerberos": "^1.1.3",
     "keytar": "^5.1.0",
